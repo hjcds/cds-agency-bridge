@@ -1617,7 +1617,7 @@ function cds_bridge_archive_rollback() {
  * ---------------------------------------------------------------------- */
 
 if ( ! defined( 'CDS_BRIDGE_DEFAULT_REPO' ) ) {
-	define( 'CDS_BRIDGE_DEFAULT_REPO', 'cloud-digital-solutions/cds-agency-bridge' );
+	define( 'CDS_BRIDGE_DEFAULT_REPO', 'hjcds/cds-agency-bridge' );
 }
 
 function cds_bridge_repo() {
